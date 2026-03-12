@@ -1,0 +1,1 @@
+so need to learn postgres and all before thise
