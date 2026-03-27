@@ -6,3 +6,5 @@ GOAL
 Affordable Vegetables in urban areas
 Perfect sorucing record and easy trackability
 Business model that works
+
+Planning to deliver within some km range from the outlets
